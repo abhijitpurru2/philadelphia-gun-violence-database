@@ -1,0 +1,272 @@
+,injured,name,hospitalized,gender,age,race,killed,is_victim
+0,True,,False,Male,56,,False,True
+1,True,,True,Male,,,False,True
+2,True,,True,Male,,,False,True
+3,True,,False,,,,False,True
+4,True,,True,,7,,False,True
+5,False,,False,,17,,False,False
+6,True,Patrick R. Casey,False,Male,31,,False,True
+7,True,,True,,,,False,True
+8,False,,True,Male,20,,False,True
+9,False,,True,Male,13,,False,True
+10,True,,True,Male,man in his 20s,,False,True
+11,False,,False,Male,,,False,True
+12,False,,False,Male,,,False,True
+13,False,,False,Female,,,False,False
+14,False,,False,,late teens or early 20s,,True,True
+15,False,,False,Male,,,False,False
+16,True,,False,Male,,,False,True
+17,True,,True,Male,,,False,True
+18,True,,True,Female,11,,False,True
+19,True,,True,Male,25,,False,True
+20,False,Eric Torres,False,Male,31-year-old,,False,False
+21,True,Edward Davies,True,Male,41-year-old,,False,True
+22,False,,False,Male,,,True,True
+23,False,,False,Female,4,,False,False
+24,False,,False,Female,4,,True,True
+25,False,,False,Female,4,,True,True
+26,True,Timothy McShane,True,Male,55,,False,True
+27,True,,True,Male,16,,False,True
+28,False,Aaron Jones,False,Male,23,,True,True
+29,False,,False,Male,,,False,False
+30,False,,False,Male,,,False,False
+31,False,,False,Male,19,,True,True
+32,False,,True,,4-year-old,,True,True
+33,True,,True,Male,19,,False,True
+34,True,,True,Male,18,,False,True
+35,False,,False,Male,,,False,False
+36,False,,False,Male,,,False,False
+37,False,,False,Male,30s,,True,True
+38,True,,True,Female,31-,,False,True
+39,False,Todd Riley,False,Male,43,,True,True
+40,False,"Christopher Fields,",False,Male,33,,False,False
+41,True,,True,Male,,,False,True
+42,True,,False,Male,,,False,True
+43,True,,True,Female,23,,False,True
+44,False,,False,Male,,,False,False
+45,False,,False,Male,,,False,False
+46,False,,True,Female,23,,False,True
+47,False,,False,Male,,,False,False
+48,False,,False,Female,,,False,False
+49,False,,True,Male,26,,False,True
+50,False,,False,Male,26,,True,True
+51,False,,False,Male,,,False,False
+52,True,,False,Male,31-,,False,True
+53,False,,False,Male,mid-20's,black,False,False
+54,True,,True,Male,31,,False,True
+55,False,,False,Male,20,,False,False
+56,False,,False,Male,20,,False,False
+57,False,,False,Male,33,,True,True
+58,False,,False,Male,,,False,False
+59,False,,False,Male,33,,False,False
+60,False,,False,Female,,,False,True
+61,False,,False,Female,,,False,True
+62,False,,False,Male,,,False,False
+63,True,,True,Female,13,,False,True
+64,True,,True,Female,13,,False,True
+65,False,Corley,False,Male,17,,False,False
+66,True,,True,Male,,,False,True
+67,True,,True,Male,20s,,False,True
+68,False,,False,Male,,,False,False
+69,False,,False,Male,20s,,False,False
+70,False,,False,Male,25,,True,True
+71,False,,False,Male,23,,False,False
+72,False,,False,Male,20s,,True,True
+73,False,,False,Male,,,False,False
+74,False,James Stulman,False,Male,51,,True,True
+75,False,Tyfine Hamilton,False,Male,15,,False,False
+76,True,,True,Male,18,,False,True
+77,True,,True,Male,20,,False,True
+78,True,,True,Male,40,,False,True
+79,False,,False,Male,,,False,False
+80,False,,False,Male,,,True,True
+81,False,,False,Male,,,False,False
+82,False,Dwayne Ballard,False,Male,17,,True,True
+83,True,,True,Male,31,,False,True
+84,True,,True,Male,34,,False,True
+85,True,,True,Male,28-,,False,True
+86,False,,False,Male,,,False,False
+87,False,,False,Male,,,False,False
+88,False,Gregory Scott,False,Male,55,,True,True
+89,False,James Hiller,False,Male,25,,False,False
+90,False,James Scott,False,Male,47,,False,False
+91,False,,False,Male,31,,True,True
+92,False,,False,Male,,,False,False
+93,False,,False,Female,36,,True,True
+94,False,,False,Male,64,,False,False
+95,False,,True,Male,21,,False,True
+96,False,Johnny Quezada,False,Male,28,,True,True
+97,True,,True,Male,,,False,True
+98,False,,False,Male,,,True,True
+99,True,,True,Male,23,,False,True
+100,True,,True,Male,25,,False,True
+101,True,,True,Female,31,,False,True
+102,False,,False,Male,,,False,False
+103,True,,True,Female,75,,False,True
+104,False,,False,Male,,,False,False
+105,False,,False,Male,19,,True,True
+106,True,,True,Male,16,,False,True
+107,True,,True,Male,17,,False,True
+108,True,,True,Male,18,,False,True
+109,True,,True,Male,18,,False,True
+110,True,,True,Male,63,,False,True
+111,True,,True,Male,21,,False,True
+112,True,,True,Male,20,,False,True
+113,True,,True,Male,20,,False,True
+114,False,,False,Male,,,False,False
+115,True,,True,Male,53,,False,True
+116,True,,True,Male,,,False,True
+117,False,,False,Female,between 38 and 39,,True,True
+118,False,,False,Male,,,False,False
+119,False,,False,Male,34,,True,True
+120,True,,True,Male,25,,False,True
+121,False,,False,Male,,,False,False
+122,False,,False,Male,20s,,True,True
+123,True,,True,Male,20,,False,True
+124,False,,False,Male,,,False,False
+125,False,,False,Male,32,,True,True
+126,True,,True,Female,27,,False,True
+127,True,,True,Male,22,,False,True
+128,True,,True,Male,37,,False,True
+129,False,,False,Male,18,,True,True
+130,False,,False,Male,,,False,False
+131,False,,False,Male,46,,True,True
+132,False,Angelo Colon,False,Male,,,True,True
+133,True,,True,Male,,,False,True
+134,True,,True,Male,,,False,True
+135,True,,True,Female,,,False,True
+136,True,,True,Male,,,False,True
+137,True,,True,Female,,,False,True
+138,True,,True,Male,22,,False,True
+139,True,,True,Male,25,,False,True
+140,True,,False,Male,,,False,True
+141,True,,True,Male,19,,False,True
+142,False,,False,Male,,,False,False
+143,False,,False,Male,33,,True,True
+144,True,,True,Female,,,False,True
+145,False,Hakim Rahman,False,Male,,,True,True
+146,False,,False,Male,,,False,False
+147,False,,False,Male,,,False,False
+148,False,,False,Male,27,,True,True
+149,True,,True,Male,24,,False,True
+150,True,,True,Male,25,,False,True
+151,True,,True,Male,45,,False,True
+152,False,,True,Male,40,,False,True
+153,False,,True,Male,27,,False,True
+154,False,,True,Male,17,,False,True
+155,True,,True,Female,26,,False,True
+156,True,,True,Female,28,,False,True
+157,True,,False,Female,,,False,True
+158,False,,False,Male,13,,True,True
+159,False,,False,Male,,,False,False
+160,True,Marchristain Hardy,True,Male,23,,False,True
+161,False,,False,Male,,,False,False
+162,False,,False,Male,20,,True,True
+163,False,Toy Charda Bryan,False,Female,26,,True,True
+164,True,,True,Female,,,False,True
+165,False,,False,Female,24,,True,True
+166,True,,True,Male,34,,False,True
+167,False,,False,Male,,,False,False
+168,True,,True,Male,26,,False,True
+169,False,,False,Male,early 20's,black,False,False
+170,False,,False,Male,25,,True,True
+171,False,,False,Male,,,False,False
+172,True,,False,Male,44,,False,True
+173,False,,False,Male,,,False,False
+174,False,,True,Male,,,False,True
+175,False,,True,Male,58,,False,True
+176,False,,True,,early 20s,,False,True
+177,False,,True,,early 20s.,,False,True
+178,True,,True,,early 20s,,False,True
+179,True,,True,,early 20s,,False,True
+180,False,Quron Willis,False,Male,17,,True,True
+181,False,Erik Bullock,False,Male,,,False,False
+182,False,,False,Male,28,,True,True
+183,True,,True,Male,,,False,True
+184,False,,False,Male,,,False,False
+185,False,Mary Morton,False,Female,83,,True,True
+186,False,Mary Morton,False,Female,83,,False,False
+187,True,,False,,,,False,True
+188,False,,False,Male,,,True,True
+189,False,,False,Female,,,True,True
+190,False,,False,Male,,,True,True
+191,False,,False,Male,46,,False,False
+192,True,,True,Male,29,,False,True
+193,False,,False,Male,,,False,False
+194,True,,True,Male,29,,False,True
+195,False,,False,Male,,,False,False
+196,False,,False,Male,,,False,False
+197,False,,False,Male,,,False,False
+198,False,,False,Male,17,,True,True
+199,False,Tahirah Phillips,False,Female,4,,True,True
+200,False,"Maurice ""Stephon"" Phillips",False,Male,30,,False,False
+201,False,,False,Male,,,True,True
+202,False,,False,Male,,,False,False
+203,False,,False,Male,28,,True,True
+204,True,,True,Male,31,,False,True
+205,False,,False,Male,19,,True,True
+206,False,,False,Male,25,,True,True
+207,True,,True,Male,22,,False,True
+208,False,,False,Male,,,False,False
+209,True,,True,Male,17,,False,True
+210,False,Raul Rodriguez,False,Male,21,,True,True
+211,False,Richard Davila,False,Male,47,,True,True
+212,False,Ativa Jackson,False,Male,19,,False,False
+213,True,,True,Male,16,,False,True
+214,True,,True,Male,25,,False,True
+215,True,,True,Male,26,,False,True
+216,False,Kiesha Jenkins,False,Female,22,,True,True
+217,False,Pedro Redding,False,Male,24,,False,False
+218,True,,False,Male,47,,False,True
+219,False,,False,Male,,,False,False
+220,True,,True,Female,46,,False,True
+221,True,,True,Male,16,,False,True
+222,True,,True,Male,38,,False,True
+223,False,,False,Male,20,,False,False
+224,False,,False,Male,20,,False,False
+225,True,,False,Male,26,,False,True
+226,False,Carl Johnson,False,Male,29,,True,True
+227,False,Nysare Oneil O. Alston,False,Male,27,,False,False
+228,False,Brandon McKelvey,False,Male,27,,False,False
+229,False,Deforest Johnson,False,Male,29,,False,False
+230,False,Christopher Corley,False,Male,29,,False,False
+231,True,,True,Male,20,,False,True
+232,True,,True,Male,21,,False,True
+233,False,,False,Male,65,,False,False
+234,False,,False,Male,31,,True,True
+235,False,,False,Male,,,False,False
+236,True,,True,Male,38,,False,True
+237,False,,False,Male,,black,False,False
+238,False,,False,,24,,True,True
+239,True,,False,Male,24,,False,True
+240,True,,False,Male,15,,False,True
+241,True,,False,Male,21,,False,True
+242,True,,False,Male,25,,False,True
+243,False,,False,Male,19,,False,True
+244,False,,False,Male,24,,False,False
+245,False,,False,Male,15,,False,False
+246,False,,False,Male,21,,False,False
+247,True,,False,,18,,False,True
+248,True,,False,,17,,False,True
+249,True,,True,Male,44,,False,True
+250,False,,False,Male,30,,True,True
+251,False,,False,Male,,,False,False
+252,False,,True,Male,23,,True,True
+253,True,,True,Male,,,False,True
+254,True,,False,,,,False,True
+255,False,,False,Male,,,False,False
+256,False,,False,Male,,black,False,False
+257,False,,False,Male,,,True,True
+258,True,,False,Male,,,False,True
+259,True,,True,Female,75,,False,True
+260,False,,False,Male,late 20s,Hispanic,False,False
+261,True,,True,Male,66,,False,True
+262,False,,False,Female,38-year-old,,False,False
+263,True,,True,Male,,,False,True
+264,True,,True,Male,18,,False,True
+265,True,,False,Male,52,,False,True
+266,True,,False,Male,58,,False,True
+267,False,Leotis Martin.,False,Male,51,,True,True
+268,False,Bartholomew Nelson,False,Male,51,,False,False
+269,True,,False,Female,11,,False,True
+270,False,,False,Male,,,False,False
